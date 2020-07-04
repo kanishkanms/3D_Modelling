@@ -14,6 +14,6 @@
   
 ## Output:
 
-![](/GIF_file.gif)
+ ![](https://github.com/Fruitseye/Blender_Works/blob/master/Wrecking_Ball/GIF_file.gif)
 
   
